@@ -1,3 +1,6 @@
 # spring-boot-demo
 
-This file needs to be updated by everyone from the team...
+
+This is Mani and I made some additional changes to the readme file.
+
+
