@@ -1,11 +1,9 @@
 # spring-boot-demo
-This is a repository where I will be uploading all my latest code.
 
-This is Mani and I have updated this line to let jyothsna work on it. 
 
-This is Mounika and I want to add this line to finish my task.
+This is Mani and I made some additional changes to the readme file.
 
-As part of Sai Krishna Task - He wants to add this line to this file.
+
 
 I'm Mounika adding lines to the file.
 
@@ -13,3 +11,8 @@ I'm Mounika adding lines to the file.
 Adding second line for second commit.-mounika
 
 Hi, im using to add some lines of code- Mounika....
+
+This is Mani and this is my second PR this is jo and I'm doing my first commit.
+
+This is mani and updated some changes in remote repo itself!!
+
